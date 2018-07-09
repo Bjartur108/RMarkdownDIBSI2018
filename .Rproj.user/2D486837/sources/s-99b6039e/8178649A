@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531167430693.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3205009310",
+    "id" : "8178649A",
+    "lastKnownWriteTime" : 1531168537,
+    "last_content_update" : 1531170446008,
+    "path" : "~/markdown_tutorial/test.Rmd",
+    "project_path" : "test.Rmd",
+    "properties" : {
+        "cursorPosition" : "7,9",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
